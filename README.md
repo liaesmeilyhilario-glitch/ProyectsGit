@@ -10,10 +10,7 @@
 - :school: I'm currently the Final year student at **Politécnico Martina Mercedes Zouain**
 - :books: My major is **Informática**
 - :earth_asia: I'm living now in **Santiago de los caballeros,Rep.Dom**
-- :monocle_face: I'm interested in coding, sleeping.
-- :sunglasses: My quote is **_"It's never too late - never too late to start over, never too late to be happy"_**
-- :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
-
+- :monocle_face: I'm interested in coding, take a coffee.
 <br>
 
 <p  align="center">
@@ -27,7 +24,7 @@
 </p>
 <br>
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
+
 
 <p align="center">
 
