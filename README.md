@@ -8,10 +8,9 @@
 
 - :credit_card: My full name is **Lia Esmeily Hilario F.** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
 - :school: I'm currently the Final year student at **Politécnico Martina Mercedes Zouain**
-- :books: My major is **Software Engineering**
-- :earth_asia: I'm living now in **Kharagpur, West Bengal, India**
-- :sweat_smile: I'm a intermediate in coding :penguin:
-- :monocle_face: I'm interested in coding, sleeping, and watching film
+- :books: My major is **Informática**
+- :earth_asia: I'm living now in **Santiago de los caballeros,Rep.Dom**
+- :monocle_face: I'm interested in coding, sleeping.
 - :sunglasses: My quote is **_"It's never too late - never too late to start over, never too late to be happy"_**
 - :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
 
