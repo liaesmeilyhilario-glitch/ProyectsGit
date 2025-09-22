@@ -10,7 +10,7 @@
 - :school: I'm currently the Final year student at **Politécnico Martina Mercedes Zouain**
 - :books: My major is **Informática**
 - :earth_asia: I'm living now in **Santiago de los caballeros,Rep.Dom**
-- :monocle_face: I'm interested in coding, take a coffee.
+- :monocle_face: I like coding and take a coffee.
 <br>
 
 <p  align="center">
